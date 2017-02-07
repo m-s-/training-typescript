@@ -1,6 +1,6 @@
 import * as Utils from "../utils";
 
-export class AsyncWait implements Utils.RunnableExample{
+export class AsyncAwait implements Utils.RunnableExample{
     
     public async run(): Promise<void> {
         console.log(Utils.SEPARATOR);

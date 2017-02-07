@@ -12,7 +12,6 @@ import * as Utils from "./utils";
 
 // import {PromiseDemo} from "./misc/promise";
 
-
 /**
  * Run time
  */
